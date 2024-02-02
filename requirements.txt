@@ -6,7 +6,7 @@ attrs==23.1.0
 certifi==2023.5.7
 charset-normalizer==3.2.0
 click==8.1.4
-dash==2.11.1
+dash==2.15.0
 dash-bootstrap-components==1.4.1
 dash-core-components==2.0.0
 dash-html-components==2.0.0
